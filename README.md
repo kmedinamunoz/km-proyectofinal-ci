@@ -1,2 +1,4 @@
-# km-proyectofinal-ci
-Proyecto Final CI
+# README
+
+- Proyecto Final CI
+- Karen Medina Proyecto Final
